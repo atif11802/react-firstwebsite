@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b1e6eace.chunk.css",
+    "main.js": "/static/js/main.330bcfbb.chunk.js",
+    "main.js.map": "/static/js/main.330bcfbb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.406dd86f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.406dd86f.js.map",
+    "static/css/2.3542fc70.chunk.css": "/static/css/2.3542fc70.chunk.css",
+    "static/js/2.22d82659.chunk.js": "/static/js/2.22d82659.chunk.js",
+    "static/js/2.22d82659.chunk.js.map": "/static/js/2.22d82659.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.3542fc70.chunk.css.map": "/static/css/2.3542fc70.chunk.css.map",
+    "static/css/main.b1e6eace.chunk.css.map": "/static/css/main.b1e6eace.chunk.css.map",
+    "static/js/2.22d82659.chunk.js.LICENSE.txt": "/static/js/2.22d82659.chunk.js.LICENSE.txt",
+    "static/media/undraw_Connected_re_lmq2.3e8f7f44.svg": "/static/media/undraw_Connected_re_lmq2.3e8f7f44.svg",
+    "static/media/undraw_Selfie_re_h9um.146eb183.svg": "/static/media/undraw_Selfie_re_h9um.146eb183.svg",
+    "static/media/undraw_software_engineer_lvl5.cd4da263.svg": "/static/media/undraw_software_engineer_lvl5.cd4da263.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.406dd86f.js",
+    "static/css/2.3542fc70.chunk.css",
+    "static/js/2.22d82659.chunk.js",
+    "static/css/main.b1e6eace.chunk.css",
+    "static/js/main.330bcfbb.chunk.js"
+  ]
+}
